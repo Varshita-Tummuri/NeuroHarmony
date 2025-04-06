@@ -17,7 +17,7 @@ To create a safe, adaptive, and supportive space where productivity and emotiona
 Our app listens. It adapts. It nudges with kindness. It lets users function on their terms.
 
 
-⚙️# Tech Stack⚙️:
+⚙️Tech Stack⚙️:
 Frontend: Flutter (Built on Project IDX)
 The frontend is developed using Flutter 
 Framework: Flutter
@@ -35,7 +35,7 @@ Version Control: GitHub
 Deployment: Flutter build
 
 
-📝Steps for Cloning this Repository
+📝Steps for Cloning this Repository: 
 1. Put the main.dart, meditations.dart, journal.dart and testing.dart into the lib folder
 2. Update the pubspec.yaml with this current code in the repo
 3. Create a new file called assets and put all the pictures in it
