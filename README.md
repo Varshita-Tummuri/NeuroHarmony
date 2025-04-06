@@ -18,20 +18,32 @@ Our app listens. It adapts. It nudges with kindness. It lets users function on�
 
 
 ⚙️Tech Stack⚙️:
-Frontend: Flutter (Built on Project IDX)
-The frontend is developed using Flutter 
+Frontend: Flutter 
+
 Framework: Flutter
+
 Language: Dart
+
 UI Components: Material 3, Google Fonts
+
 State Management: setState, Provider/Riverpod
+
 Backend: Firebase + SQLite
+
 Authentication: Firebase Authentication (Google Sign-In, Email/Password)
+
 Push Notifications: Firebase Cloud Messaging
+
 AI Voice Assistant: Gemini API
+
 Powered by Google's Gemini API for voice interaction and task automation.
+
 Voice Commands: Speech-to-Text API for input
+
 Smart Suggestions: AI-based task prioritization and categorization
+
 Version Control: GitHub
+
 Deployment: Flutter build
 
 
