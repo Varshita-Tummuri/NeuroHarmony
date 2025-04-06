@@ -11,27 +11,27 @@ With our app, users can:
 🎨 Customize the app with themes, mascots, and sensory-friendly settings
 Built with empathy, powered by AI—this is more than a productivity app. It’s a daily companion for minds that work differently.
 
-⚙️Tech Stack:
+
+🎯 Our Mission
+To create a safe, adaptive, and supportive space where productivity and emotional health co-exist, especially for minds that operate outside the neurotypical box.
+Our app listens. It adapts. It nudges with kindness. It lets users function on their terms.
+
+
+⚙️# Tech Stack⚙️:
 Frontend: Flutter (Built on Project IDX)
 The frontend is developed using Flutter 
 Framework: Flutter
 Language: Dart
 UI Components: Material 3, Google Fonts
 State Management: setState, Provider/Riverpod
-
 Backend: Firebase + SQLite
-A hybrid storage approach using Firebase for cloud sync and SQLite for offline functionality.
 Authentication: Firebase Authentication (Google Sign-In, Email/Password)
-Database: Firebase Firestore (cloud) + SQLite/Hive (local storage)
 Push Notifications: Firebase Cloud Messaging
-
 AI Voice Assistant: Gemini API
 Powered by Google's Gemini API for voice interaction and task automation.
 Voice Commands: Speech-to-Text API for input
 Smart Suggestions: AI-based task prioritization and categorization
-
 Version Control: GitHub
-
 Deployment: Flutter build
 
 
